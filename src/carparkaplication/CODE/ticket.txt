@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+
+
+<date value="2012-4-26"/><date value="2012-4-27"/><date value="2015-4-3"><ticket id="857116"><begin_time>2015-04-03 16:47:02</begin_time><end_time/><price/><paid/></ticket><ticket id="740105"><begin_time>2015-04-03 16:51:15</begin_time><end_time>2015-04-03 16:52:04</end_time><price>0.5</price><paid>7401051</paid></ticket><ticket id="242446"><begin_time>2015-04-03 16:54:21</begin_time><end_time>2015-04-03 16:55:08</end_time><price>0.5</price><paid>2424461</paid></ticket><ticket id="245465"><begin_time>2015-04-03 17:04:50</begin_time><end_time/><price/><paid/></ticket></date></root>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<admin>
+
+<name>admin</name>
+<pass>111</pass>
+
+</admin>
+
+
+<port>
+<count>27</count>
+<openMonth><month>1</month><month>2</month><month>3</month><month>4</month><month>5</month><month>6</month><month>9</month><month>10</month><month>11</month><month>12</month></openMonth>
+<openDay><day>6</day><day>7</day></openDay>
+</port>
+
+</root>

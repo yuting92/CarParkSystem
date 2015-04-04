@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+
+
+<date value="2012-4-26"/><date value="2012-4-27"/></root>

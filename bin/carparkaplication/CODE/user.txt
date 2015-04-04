@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<staff><staff_number>12345</staff_number><pass>1234</pass><palte_number id=""><plate_pass>1</plate_pass></palte_number><department/></staff></root>
